@@ -1,0 +1,18 @@
+body{
+    background-color: lightgrey;
+}
+
+.info{
+    font-family: 'VT323', monospace;
+    margin-top: 100px;
+    text-align: center;
+    margin: auto;
+    font-size: 40px;
+    color: white;
+    width: 50%;
+    height: 50vw;
+    background-color: #44A9D5;
+    padding: 10px;
+    margin-top:50px;
+}
+
